@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com"/@pedrocastro2013?si=21OzZ3oNV7sl9gKI target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
