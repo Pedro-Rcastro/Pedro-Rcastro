@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro R. Castro! 👋
 
 ### Sobre mim
-Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizados.
+Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizados. Tenho experiência em diversas linguagens de programação e tecnologias, e gosto de compartilhar meu conhecimento com a comunidade.
 
 ### Linguagens e Tecnologias
 <p align="left">
@@ -12,6 +12,12 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Gráficos de Linguagens Utilizadas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Rcastro&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Rcastro&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
 </p>
 
 ### Redes Sociais
