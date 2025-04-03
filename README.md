@@ -73,10 +73,16 @@ Aqui está um vídeo de apresentação sobre mim e meus projetos:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Rcastro&theme=radical" alt="GitHub Profile Summary">
 </div>
 
-## 🎮 Jogo de Blocos
+## 📸 Galeria
 
-Aqui está uma imagem interativa de um jogo de blocos em movimento:
+Aqui estão algumas imagens relacionadas ao meu trabalho e interesses:
 
 <p align="center">
-  <a href="https://tetris.com/play-tetris"><img src="https://user-images.githubusercontent.com/29199184/123932207-dc8fb600-d9a2-11eb-8a35-2a5d5f6f1e2a.png" alt="Jogo de Blocos"></a>
+  <img src="https://via.placeholder.com/400x200.png?text=Projeto+1" alt="Projeto 1">
+  <img src="https://via.placeholder.com/400x200.png?text=Projeto+2" alt="Projeto 2">
+  <img src="https://via.placeholder.com/400x200.png?text=Projeto+3" alt="Projeto 3">
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Tecnologias+e+Ferramentas" alt="Tecnologias e Ferramentas">
 </p>
