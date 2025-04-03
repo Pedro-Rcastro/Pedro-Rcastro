@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou Pedro!
+# 🚀 Pedro | Desenvolvedor Full Stack
 
-🌟 **Desenvolvedor apaixonado por inovação e tecnologia.**  
-🎯 Sempre explorando novas ferramentas e tendências para criar soluções incríveis.
+💼 **Experiência:** Trabalhando com [JavaScript, Python, React]  
+🎯 **Interesses:** Desenvolvimento Web, IA, DevOps  
+📫 **Contato:** [LinkedIn](https://linkedin.com/in/pedro) | [Portfólio](https://meuportfolio.com)
 
 ---
 
-## 🚀 Sobre mim
+## 🔗 Projetos Recentes  
+- [📌 Projeto Top](https://github.com/pedro/projeto-top) – Sistema de automação  
+- [🌐 Site Responsivo](https://github.com/pedro/site-responsivo) – UI/UX otimizada  
 
-```yaml
-name: Pedro
-skills: [JavaScript, Python, HTML, CSS, React, Node.js]
-learning: [AI, DevOps, Rust]
-hobbies: ["🚴 Ciclismo", "🎨 Design", "📚 Leitura", "🎮 Jogos"]
+📊 **Stats**  
+![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro&show_icons=true&theme=tokyonight)
