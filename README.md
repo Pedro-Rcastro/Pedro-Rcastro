@@ -73,70 +73,10 @@ Aqui está um vídeo de apresentação sobre mim e meus projetos:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Rcastro&theme=radical" alt="GitHub Profile Summary">
 </div>
 
-## 🎮 Jogue um Joguinho
+## 🎮 Jogo de Blocos
 
-Você pode jogar um joguinho de blocos em movimento diretamente aqui:
+Aqui está uma imagem interativa de um jogo de blocos em movimento:
 
-<canvas id="gameCanvas" width="320" height="480"></canvas>
-
-<script>
-  const canvas = document.getElementById('gameCanvas');
-  const context = canvas.getContext('2d');
-
-  const game = {
-    width: 320,
-    height: 480,
-    blockSize: 20,
-    rows: 24,
-    columns: 16,
-    blocks: [],
-    player: { x: 7, y: 0, color: 'blue' },
-    interval: null,
-    init: function() {
-      for (let r = 0; r < this.rows; r++) {
-        this.blocks[r] = [];
-        for (let c = 0; c < this.columns; c++) {
-          this.blocks[r][c] = null;
-        }
-      }
-      this.interval = setInterval(this.update.bind(this), 1000 / 2);
-    },
-    draw: function() {
-      context.clearRect(0, 0, this.width, this.height);
-      for (let r = 0; r < this.rows; r++) {
-        for (let c = 0; c < this.columns; c++) {
-          if (this.blocks[r][c]) {
-            context.fillStyle = this.blocks[r][c];
-            context.fillRect(c * this.blockSize, r * this.blockSize, this.blockSize, this.blockSize);
-          }
-        }
-      }
-      context.fillStyle = this.player.color;
-      context.fillRect(this.player.x * this.blockSize, this.player.y * this.blockSize, this.blockSize, this.blockSize);
-    },
-    update: function() {
-      if (this.player.y < this.rows - 1 && !this.blocks[this.player.y + 1][this.player.x]) {
-        this.player.y++;
-      } else {
-        this.blocks[this.player.y][this.player.x] = this.player.color;
-        this.player = { x: 7, y: 0, color: 'blue' };
-        if (this.blocks[0][7]) {
-          clearInterval(this.interval);
-          alert('Game Over');
-        }
-      }
-      this.draw();
-    },
-    keyPress: function(event) {
-      if (event.key === 'ArrowLeft' && this.player.x > 0 && !this.blocks[this.player.y][this.player.x - 1]) {
-        this.player.x--;
-      } else if (event.key === 'ArrowRight' && this.player.x < this.columns - 1 && !this.blocks[this.player.y][this.player.x + 1]) {
-        this.player.x++;
-      }
-      this.draw();
-    }
-  };
-
-  window.addEventListener('keydown', game.keyPress.bind(game));
-  game.init();
-</script>
+<p align="center">
+  <a href="https://tetris.com/play-tetris"><img src="https://user-images.githubusercontent.com/29199184/123932207-dc8fb600-d9a2-11eb-8a35-2a5d5f6f1e2a.png" alt="Jogo de Blocos"></a>
+</p>
