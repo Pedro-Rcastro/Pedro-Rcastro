@@ -20,6 +20,19 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Rcastro&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
 </p>
 
+### Projetos
+<p align="left">
+  <a href="https://github.com/Pedro-Rcastro/Projeto1">
+    <img src="https://img.shields.io/badge/Projeto 1-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projeto 1"/>
+  </a>
+  <a href="https://github.com/Pedro-Rcastro/Projeto2">
+    <img src="https://img.shields.io/badge/Projeto 2-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projeto 2"/>
+  </a>
+  <a href="https://github.com/Pedro-Rcastro/Projeto3">
+    <img src="https://img.shields.io/badge/Projeto 3-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projeto 3"/>
+  </a>
+</p>
+
 ### Redes Sociais
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-rcastro/">
