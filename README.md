@@ -1,26 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil no GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #444;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Olá, eu sou Pedro!</h1>
+        <p>Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em projetos de código aberto e adoro contribuir para a comunidade.</p>
+        
+        <h2>Projetos Recentes</h2>
+        <ul>
+            <li><a href="https://github.com/Pedro-Rcastro/projeto1" target="_blank">Projeto 1</a> - Uma breve descrição do projeto 1.</li>
+            <li><a href="https://github.com/Pedro-Rcastro/projeto2" target="_blank">Projeto 2</a> - Uma breve descrição do projeto 2.</li>
+            <li><a href="https://github.com/Pedro-Rcastro/projeto3" target="_blank">Projeto 3</a> - Uma breve descrição do projeto 3.</li>
+        </ul>
 
- ## Bem-vindo ao perfil de Pedro-Rcastro 😁
-
- <div>
-   <a href="https://github.com/Pedro-Rcastro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Rcastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Rcastro&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me siga nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com"/@pedrocastro2013?si=21OzZ3oNV7sl9gKI target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/roger.castro.23?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pedro_castro23" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "rogeregaby2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-castro-6b453595" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+        <h2>Contato</h2>
+        <p>Você pode me encontrar no <a href="https://www.linkedin.com/in/seuusuario" target="_blank">LinkedIn</a> ou me enviar um email para <a href="mailto:seuemail@example.com">seuemail@example.com</a>.</p>
+    </div>
+</body>
+</html>>
